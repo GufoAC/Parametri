@@ -141,3 +141,4 @@ namespace Parametri.Controllers
         }
     }
 }
+// Non ho capito nulla
